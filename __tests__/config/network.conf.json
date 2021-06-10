@@ -1,0 +1,23 @@
+{
+  "nodeUrl": "http://20.71.180.252:3000",
+  "marketDataUrl": "https://min-api.cryptocompare.com/",
+  "pagination": {
+    "pageSize": 25
+  },
+  "testAccount": {
+    "address": "TAWKFBDQ574C6XUSKH4PHBTQY4SSE66HRHTO2QI"
+  },
+  "testMosaic": {
+    "mosaicId": "067FAE202D44AC71"
+  },
+  "testNamespace": {
+    "rootNamespace": "veritise",
+    "subNamespace": "veritise.currency"
+  },
+  "testBlock": {
+    "height": 1
+  },
+  "testTransactions": {
+    "transferTransactionHash": "DBBCD72693BEFABECA2EA18AE1469E520FE9C95262E33213A77D36F925FB3962"
+  }
+}
