@@ -1,21 +1,21 @@
 {
 	"peersApi": {
-		"defaultNode": "http://20.52.55.182:3000",
+		"defaultNode": "http://51.116.226.0:3000",
 		"nodes": [
-			"http://20.52.55.182:3000",
-			"http://20.52.58.9:3000"
+			"http://51.116.226.65:3000",
+			"http://51.116.227.224:3000"
 		]
 	},
 	"apiNodePort": 3000,
 	"endpoints": {
 		"marketData": "https://min-api.cryptocompare.com/",
 		"statisticsService": "",
-		"nodeRewardsController": "http://20.52.131.211:7890"
+		"nodeRewardsController": "http://51.116.226.65:7890"
 	},
 	"networkConfig": {
 		"namespaceName": "veritise.currency",
-		"mosaicId": "0851A947D7A47CE7",
-		"namespaceId": "",
+		"mosaicId": "5ABC5FC919933DC6",
+		"namespaceId": "EF1C9B47E5469943",
 		"divisibility": "6",
 		"networkIdentifier": 0
 	},
